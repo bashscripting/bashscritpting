@@ -1,9 +1,10 @@
 #!/bin/bash
-#basic script#
+#ioscripts#
 #creation date :20 march 2021
 #modified date :20 march 2021
 #author: bhaskar
-echo "hellosubscribers this is bhaskar"
+host=`hostname`
+echo "my hostname is :$host "
 echo
 echo "hi subscribers,what is your name"
 read name
