@@ -1,8 +1,8 @@
 
 #!/bin/bash
 #casestatement
-#creation date :20 march 2021
-#modified date :20 march 2021
+#creation date :20 april 2021
+#modified date :20 april 2021
 #author: bhaskar
 echo
 echo "pleasecho0se"
